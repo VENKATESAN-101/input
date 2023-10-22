@@ -1,0 +1,61 @@
+
+body{
+font-size: 20px;
+border: 3px black solid;
+padding-bottom: 30px;
+}
+h2{
+    color: rgb(79, 10, 207);
+}
+b{
+    background-color: rgba(52, 221, 142, 0.774);
+    padding-right:2px;
+}
+#po1{
+    position: absolute;
+    top:60px;
+    width: 160px;
+   border: rgb(0, 0, 0) solid 3px;
+    right:40px;
+    padding-top:4px;
+    
+}
+.part{
+ 
+   margin-left: 50px;
+}
+table,td,tr,th{
+  
+    border: 3px solid rgb(0, 0, 0);
+ 
+    background:rgba(221, 97, 97, 0.356) ;
+
+    
+}
+th{
+    background-color: rgba(208, 66, 212, 0.438);
+    text-align: center;
+    padding: 5px;
+}
+#a1{
+   background-color: rgba(146, 144, 219, 0.685); 
+   
+}
+td{
+   
+    padding-left:7px;
+}
+#t1{
+    margin-left: 50px;
+}
+.person{
+    padding-left: 30px;
+   
+}
+#he{
+    padding-left: 90px;
+}
+#na{
+    margin-left: 900px;
+    margin-top: 20px;
+}
